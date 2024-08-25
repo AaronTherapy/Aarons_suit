@@ -1,3 +1,6 @@
+## v1.8
+- Added Duolingo (be careful he might kill you)
+
 ## v1.7
 - Added Donkey Kong Face Mask
 - Added Napoleon Suit
